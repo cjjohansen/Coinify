@@ -1,0 +1,2 @@
+# Coinify
+Coinify Kata
